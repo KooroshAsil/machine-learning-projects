@@ -1,0 +1,3 @@
+numpy
+scikit-learn
+tkinter  # Standard library GUI toolkit for the application
