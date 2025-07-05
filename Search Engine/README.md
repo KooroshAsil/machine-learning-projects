@@ -47,9 +47,7 @@
 
 ## 🏗️ Architecture
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/agora-architecture.png" alt="Architecture Diagram" width="600" />
-</div>
+![sample](https://github.com/user-attachments/assets/bffc9018-552a-4df2-ae79-ddef5c54f867)
 
 ### 1. Document Loader
 
